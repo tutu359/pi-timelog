@@ -1,0 +1,10 @@
+{
+	"name": "pi-timelog",
+	"version": "1.0.0",
+	"description": "Pi extension — show a per-turn timestamp line (question → answer) after each conversation turn",
+	"keywords": ["pi-package"],
+	"license": "MIT",
+	"peerDependencies": {
+		"@earendil-works/pi-tui": "*"
+	}
+}
